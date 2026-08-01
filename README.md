@@ -1,2 +1,4 @@
-# javascript-todo-17
+# Javascript Todo 17
+
 Simple task list manager in JavaScript.
+
