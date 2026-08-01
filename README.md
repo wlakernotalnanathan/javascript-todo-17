@@ -6,3 +6,5 @@ Simple task list manager in JavaScript.
 Clone this project and look at the source files:
 - `index.html`
 - `todo.js`
+
+*Initialized by wlakernotalnanathan workspace automation.*
